@@ -3,11 +3,12 @@
   <groupId>com.lorne.mysql</groupId>
   <artifactId>lorne_mysql</artifactId>
   <versioning>
-    <release>1.0.1.RELEASE</release>
+    <release>1.1.0.RELEASE</release>
     <versions>
       <version>1.0.0.RELEASE</version>
       <version>1.0.1.RELEASE</version>
+      <version>1.1.0.RELEASE</version>
     </versions>
-    <lastUpdated>20170824045212</lastUpdated>
+    <lastUpdated>20170921062847</lastUpdated>
   </versioning>
 </metadata>
